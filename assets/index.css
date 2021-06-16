@@ -1,0 +1,42 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;   
+    justify-content: space-around;
+}
+
+html {   
+    background-color:darkgoldenrod;       
+}
+
+.flex-item {
+    margin: auto;
+    width: 500px;
+    height: 300px;
+    background-color: burlywood;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+       
+}
+
+.header {
+    background-color: rgb(44, 29, 9);
+    margin: 500fr;
+    padding: 2px;
+    justify-items: auto;
+    color: cornsilk;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.head-image {
+    margin: 20px; 
+    text-align: center;        
+}
+
+.list {
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
